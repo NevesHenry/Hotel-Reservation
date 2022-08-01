@@ -1,9 +1,8 @@
 /** Author: Henrique Reis Neves
- * SID: 100313047
  * 
- * Assignment 1:  Hotel Reservation
+ * Hotel Reservation
  * Room.h file
- * Last Update: 2022-05-28
+ * Last Update: 2022-08-01
  **/
 
 

@@ -1,7 +1,6 @@
 /** Author: Henrique Reis Neves
- * SID: 100313047
  * 
- * Assignment 1:  Hotel Reservation
+ * Hotel Reservation
  * Customer.cpp file
  * Last Update: 2022-05-27
 **/

@@ -1,11 +1,9 @@
 /** Author: Henrique Reis Neves
- * SID: 100313047
  * 
- * Assignment 1:  Hotel Reservation
+ * Hotel Reservation
  * Customer.h file
- * Last Update: 2022-05-25
+ * Last Update: 2022-08-01
  **/
-
 
 #ifndef CUSTOMER_H
 #define CUSTOMER_H
